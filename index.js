@@ -29,7 +29,7 @@ inquirer.prompt([
     },
     {
         type: "input",
-        name: "Table of Contents",
+        name: "tableOfContents",
         message: "What is your table of contents?"
     },
     
